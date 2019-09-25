@@ -1,0 +1,12 @@
+[
+  {
+    "title": "First Notification",
+    "date": "2019-09-25 15:21:00",
+    "message": "This is test notification text..."
+  },
+  {
+    "title": "Second Notification",
+    "date": "2019-09-26 15:21:00",
+    "message": "This is more test notification text..."
+  }
+]
